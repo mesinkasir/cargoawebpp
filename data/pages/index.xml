@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Fri, 29 Jan 2021 23:22:47 +0700</pubDate><title><![CDATA[Cargo Logistic]]></title><url><![CDATA[index]]></url><meta><![CDATA[https://axcora.com/getaxcoracms - get axcora cms modern blast fast website SEO]]></meta><metad><![CDATA[Build with get axcora cms - modern cms website blast and fast without databased , download on https://axcora.com/geataxcoracms]]></metad><menu><![CDATA[Home]]></menu><menuOrder><![CDATA[1]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-12 col-md-12 p-0&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;data/uploads/couriers.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-12 p-3 p-md-5 bg-light text-center&quot;&gt;
+		&lt;h1&gt;Axcora Cargo&lt;/h1&gt;
+
+		&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..&lt;/p&gt;
+
+		&lt;p&gt;Ready with get axcora cms , &lt;a class=&quot;text-secondary border border-dark p-3&quot; href=&quot;?id=about&quot;&gt;About Us →&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-4 p-0&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;data/uploads/c2.jpg&quot; width=&quot;100%&quot; /&gt;
+		&lt;div class=&quot;p-3 p-md-5&quot;&gt;
+			&lt;h3&gt;Lorep Ipsum&lt;/h3&gt;
+
+			&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
+			&lt;a href=&quot;?id=info&quot;&gt;more info →&lt;/a&gt;&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-4 p-0&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;data/uploads/c1.jpg&quot; width=&quot;100%&quot; /&gt;
+		&lt;div class=&quot;p-3 p-md-5&quot;&gt;
+			&lt;h3&gt;Lorep Ipsum&lt;/h3&gt;
+
+			&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua&lt;/p&gt;
+			&lt;a href=&quot;?id=profile&quot;&gt;more info →&lt;/a&gt;&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-4 p-0&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;data/uploads/c3.jpg&quot; width=&quot;100%&quot; /&gt;
+		&lt;div class=&quot;p-3 p-md-5&quot;&gt;
+			&lt;h3&gt;Lorep Ipsum&lt;/h3&gt;
+
+			&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua&lt;/p&gt;
+			&lt;a href=&quot;?id=gallery&quot;&gt;more info →&lt;/a&gt;&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-12 p-0&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;data/uploads/cargo.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-4 p-3 p-md-5&quot;&gt;
+		&lt;div class=&quot;border border-dark p-3 text-center&quot;&gt;
+			&lt;h3&gt;Lorep Ipsum&lt;/h3&gt;
+
+			&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum,&lt;a class=&quot;text-dark&quot; href=&quot;?id=contact-us&quot;&gt;more info →&lt;/a&gt;&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-8 p-0&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;data/uploads/courier.webp&quot; width=&quot;100%&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-12 p-0 text-center bg-white&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;data/uploads/logistic.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-8 p-0 text-center bg-white&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;data/uploads/ekspedisi.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-4 p-3 p-md-5 bg-dark text-white&quot;&gt;
+		&lt;h3&gt;Get Axcora CMS&lt;/h3&gt;
+
+		&lt;hr class=&quot;bg-white&quot; /&gt;
+		&lt;p&gt;&lt;big&gt;&lt;strong&gt;Go Online with us with cheap price , with get axcora cms including cargoapps juts only $.65USD / Years , including domain .com and host, or have a web app project lets talk with us for best solutions.&lt;/strong&gt;&lt;/big&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;big&gt;&lt;strong&gt;Get Axcora CMS&lt;br /&gt;
+			Surockboyo - Indonesia&lt;br /&gt;
+			Email : axcora@gmail.com&lt;br /&gt;
+			Call : +6287819355589 &lt;/strong&gt;&lt;br /&gt;
+			&lt;strong&gt;WhatsApp : +6285646104747&lt;br /&gt;
+			&lt;a class=&quot;text-white&quot; href=&quot;https://axcora.com/getaxcoracms/&quot;&gt;https://axcora.com/getaxcoracms&lt;/a&gt;&lt;/strong&gt;&lt;/big&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>

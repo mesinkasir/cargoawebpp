@@ -1,0 +1,37 @@
+get axcora cms cargo website themes web app - with cargo apps simple free download and source code full
+
+get start 
++ download get axcora cargo website themes template on download menu https://axcora.com/getaxcoracms
++ You can using localhost with xampp download on https://www.apachefriends.org/index.html
++ Or installed on cloud shared hosting for work on online mode with this apps just login on your cpanel then upload download file ,then extract on public_html or your project folder
++ for offline localhost you need to run xampp first,create a folder on c:xampp/htdocs and name it with cargoapp then extract file download on your project folder on C:xampp/htdocs/ cargoapp
++ online : visit phpmyadmin create new database then create new database and name it with cargoapp.
++ offline : create mysql database , visit localhost/phpmyadmin on web browser ,then create new database name it with cargoapp.
++ open get axcora cms folder then open cargo , click on function.php change database and user name with your user and password on phpmyadmin
++ cargo apps is ready now
+
+Now this a procedure work with get axcora cargo apps website application
++ Open your website URL/admin then login with username axcora password axcoracms
++ After login you need to change url on setting menu, just click on setting then change URL with your url, and change password with your own for security reason.
++ With get axcora cms you can build and develope website very fast with we template, and of course SEO is ready with title description meta and sitemap xml generate automaticly
++ Get axcora cms features : page for create new content , edit, and delete article website, file manager is ready for save your media like image and more.. , setting for configuration your cargo website ,and apps menu is a plugin for accsessing cargo apps.
++ Cargoapps : is a simple for your cargo management information, just click on app menu , then you can work with cargo apps, features : cargo start for noted and transaction, notes agenda, calculator menu, documentation , and short cut to web admin page.
+
+Develope with love  : we have a open source code project for supporting your bussiness with get axcora web apps, all in one website and application cargo apps.
+
+Our goals and expectations :
++ With get axcora cms make simple and fast for develope your modern website, with 6 menu features , home page , information page, about page, gallery page, and contact page area for information about your cargo bussiness. and of course you can modify with you needed for develope cargo website.
++ With cargo app you can create and note customer transaction including update status like pending , on hold, and sent with you needed.
+
+present by https://axcora.com/getaxcoracms
+
+
+Need point of sale just click on 
+https://www.hockeycomputindo.com
+https://mesinkasironline.web.app
+
+Support our chanel
+https://www.youtube.com/c/bakoelraksupermarketMesinKasir/videos
+
+Be fans on facebook
+https://facebook.com/mesinkasircomplete
