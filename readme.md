@@ -67,22 +67,22 @@ By default use username : axcora and password : axcoracms
 Features :
 
 Frontend
-+Home page design with landing page
-+About page
-+Info page 
-+Profile page
-+Gallery Page
-+Contact Page information
++ Home page design with landing page
++ About page
++ Info page 
++ Profile page
++ Gallery Page
++ Contact Page information
 
 Backend
-+Page for create new post article content you can edit and delete too.
-+File menu for upload media manager.
-+Setting for change password and others.
-+SEO : automaticly generate meta title , description , facebook, twitter.
-+Cargo Logistic application full version.
-+Notes agenda project.
-+Digital Calculator.
-+Documentation and tutorial page.
++ Page for create new post article content you can edit and delete too.
++ File menu for upload media manager.
++ Setting for change password and others.
++ SEO : automaticly generate meta title , description , facebook, twitter.
++ Cargo Logistic application full version.
++ Notes agenda project.
++ Digital Calculator.
++ Documentation and tutorial page.
 
 
 No need a database installation make your website very fast, and of course with SEO friendly include, simple and easy to use including cargo logistic application.
