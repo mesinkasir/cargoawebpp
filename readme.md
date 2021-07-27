@@ -8,43 +8,25 @@ How to install ?? [read documentation  →](https://axcora.com/getaxcoracms/inde
 
 Cargo logistic web app get axcora cms.
 
-![cargo logitic website application](https://a.fsdn.com/con/app/proj/cargoapp/screenshots/cargo%20logistic%20ekspedisi%20free%20website%20template%20and%20application%20apps%20%282%29.jpg/max/max/1)
+![cargo logitic website application](https://axcora.com/getaxcoracms/data/uploads/themes/cargo/cargo-logistic-ekspedisi-free-website-template-and-application-apps-3.jpg)
 
-Moden design using landing pages . With Home page menu, About Page , Profile Page, Info Page , Gallery Page , and contact.
-
-![cargo logitic website application](https://a.fsdn.com/con/app/proj/cargoapp/screenshots/cargo%20logistic%20ekspedisi%20free%20website%20template%20and%20application%20apps%20%281%29.jpg/max/max/1)
-
-New generation with get axcora cms modern web apps.
-
-![cargo logitic website application](https://a.fsdn.com/con/app/proj/cargoapp/screenshots/cargo%20logistic%20application%20-%20aplikasi%20ekspeidisi%20gratis%20%284%29.png/max/max/1)
-
-Ready with cargo logistic application online
-
-![cargo logitic website application](https://a.fsdn.com/con/app/proj/cargoapp/screenshots/cargo%20logistic%20application%20-%20aplikasi%20ekspeidisi%20gratis%20%285%29.png/max/max/1)
-
-Report and list detailed easy to update status form hold pending to successfuly sent to customer.
-
-![cargo logitic website application](https://a.fsdn.com/con/app/proj/cargoapp/screenshots/cargo%20logistic%20application%20-%20aplikasi%20ekspeidisi%20gratis%20%281%29.png/max/max/1)
-
-Save and create a transaction with your customer.
-
-![cargo logitic website application](https://a.fsdn.com/con/app/proj/cargoapp/screenshots/Screenshot_2021-01-30%20Cargo%20%C2%BB%20Page%20Management.png/max/max/1)
-
-All in one website and application, powerfull on online mode.
-
-![cargo logitic website application](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%286%29.png/max/max/1)
++ Moden design using landing pages . With Home page menu, About Page , Profile Page, Info Page , Gallery Page , and contact.
++ New generation with get axcora cms modern web apps.
++ Report and list detailed easy to update status form hold pending to successfuly sent to customer.
++ Save and create a transaction with your customer.
++ All in one website and application, powerfull on online mode.
 
 Login Area for backend
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%285%29.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%285%29.png)
 
 Page and article post menu.
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%284%29.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%284%29.png)
 
 Create article post very simple and easy
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%282%29.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%281%29.png)
 
 Back end setting
 
@@ -53,14 +35,12 @@ Back end setting
 
 CLOUDS / SHARED HOSTING
 
-Just download this file and upload on your shared or clouds host , upload on public_html fle if you using this cms for develope home page website, or you can upload it on sub directori .
-After upload progress success, now you need to configure website.xml file on \getaxcora\data\other\website.xml file. then change <SITEURL><![CDATA[http://localhost/getaxcoracms/]]></SITEURL> with your site URL.
-Your website is online now . for accsess backend you need visit yourwebsite/admin
+Just download this file and upload on your shared or clouds host , upload on public_html fle if you using this cms for develope home page website, or you can upload it on sub directori . with your site URL.
+logon on yourwebsite/admin - by default you can use username : axcora / pass : axcoracms - after login go to setting and change url with your site then save.
 
 LOCALHOST
 
-Need third party XAMPP WAMPP LAMPP server, download this project and upload on your xampp/htdocs folder, then visit localhost/your project. need to configure website.xml file on \getaxcora\data\other\website.xml file. then change <SITEURL><![CDATA[http://localhost/getaxcoracms/]]></SITEURL> with your site URL.
-Your website is online now on localhost. for accsess backend menu you need visit localhost/yourproject/admin
+Need third party XAMPP WAMPP LAMPP server, download this project and upload on your xampp/htdocs folder, then visit logon on yourwebsite/admin - by default you can use username : axcora / pass : axcoracms - after login go to setting and change url with your site then save.
 
 By default use username : axcora and password : axcoracms
 
